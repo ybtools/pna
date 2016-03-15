@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://219.239.42.89/app/ehr.ipa</string>
+					<string>https://raw.githubusercontent.com/ybtools/pna/master/ehr.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
