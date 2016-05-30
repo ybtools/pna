@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fescoehr.appehr</string>
+				<string>com.fescoehr.appehr8</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>i人力v2.0</string>
+				<string>i人力v2.10</string>
 			</dict>
 		</dict>
 	</array>
